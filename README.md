@@ -1,21 +1,21 @@
-# 📝 TodoList App
+# TodoList App
 
 A simple and efficient **Todo List Application** built using HTML, CSS, and JavaScript.  
 This project helps you add, delete, and mark tasks as completed — perfect for beginners learning DOM manipulation.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ➕ Add new tasks  
-- ✔️ Mark tasks as completed  
-- 🗑️ Delete tasks  
-- 📱 Responsive UI  
-- ⚡ Fast & lightweight
+-  Add new tasks  
+-  Mark tasks as completed  
+-  Delete tasks  
+-  Responsive UI  
+-  Fast & lightweight
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **HTML5**
 - **CSS3**
@@ -23,7 +23,7 @@ This project helps you add, delete, and mark tasks as completed — perfect for 
 
 ---
 
-## ▶️ How to Use
+##  How to Use
 
 1. Clone the repository:
    ```sh
